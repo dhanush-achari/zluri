@@ -1,0 +1,70 @@
+1 . Movie with the shorted runtime: Vessel with a runtime of: 14.0 minutes
+
+
+production_company_names	adjusted_budget
+0	Warner Bros.	5444176945.76
+1	Universal Pictures	4766464510.04
+2	Paramount Pictures	4741777090.71
+3	Walt Disney Pictures	4407307773.11
+4	Columbia Pictures	4332847538.00
+Maharshi Chattopadhyay3:50 PM
+	title	production_company_names	vote_average
+0	The Dark Knight	Warner Bros.	8.20
+1	The Green Mile	Warner Bros.	8.20
+2	One Flew Over the Cuckoo's Nest	Warner Bros.	8.20
+3	Once Upon a Time in America	Warner Bros.	8.20
+4	The Shining	Warner Bros.	8.10
+5	Schindler's List	Universal Pictures	8.30
+6	Psycho	Universal Pictures	8.20
+7	To Kill a Mockingbird	Universal Pictures	8.00
+8	Back to the Future	Universal Pictures	8.00
+9	Scarface	Universal Pictures	8.00
+10	The Godfather	Paramount Pictures	8.40
+11	The 
+	title	production_company_names	popularity
+0	Interstellar	Warner Bros.	724.25
+1	Mad Max: Fury Road	Warner Bros.	434.28
+2	The Dark Knight	Warner Bros.	187.32
+3	Inception	Warner Bros.	167.58
+4	Batman v Superman: Dawn of Justice	Warner Bros.	155.79
+5	Minions	Universal Pictures	875.58
+6	Despicable Me 2	Universal Pictures	136.89
+7	Lucy	Universal Pictures	115.24
+8	Despicable Me	Universal Pictures	113.86
+9	Bruce Almighty	Universal Pictures	109.68
+10	Interstellar	Paramount Pictures	724.25
+11	Terminator 
+
+title	production_company_names	revenue
+0	The Dark Knight Rises	Warner Bros.	1084939099
+1	The Dark Knight	Warner Bros.	1004558444
+2	Harry Potter and the Philosopher's Stone	Warner Bros.	976475550
+3	Harry Potter and the Order of the Phoenix	Warner Bros.	938212738
+4	Harry Potter and the Half-Blood Prince	Warner Bros.	933959197
+5	Furious 7	Universal Pictures	1506249360
+6	Minions	Universal Pictures	1156730962
+7	Despicable Me 2	Universal Pictures	970761885
+8	Jurassic Park	Universal Pictures	920100000
+	release_year	production_company_names	title
+0	2001	Warner Bros.	15
+1	2002	Warner Bros.	15
+2	2003	Universal Pictures	14
+3	2004	Warner Bros.	14
+4	2005	Universal Pictures	15
+5	2006	Warner Bros.	17
+6	2007	Warner Bros.	14
+7	2008	Relativity Media	20
+8	2009	Relativity Media	19
+9	2010	Relativity Media	18
+10	2011	Columbia Pictures	14
+11	2012	Relativity Media	13
+12	2013	Warner Bros.	12
+13	2014	Warner Bros.	11
+14	2015	Warner Bros.	12
+15	2016	Universal Pictures	10
+
+2, last important
+
+OLAP OLTP , Row Wise DB v/s Columnar DB. Why no sql is called no sql
+
+CICD
